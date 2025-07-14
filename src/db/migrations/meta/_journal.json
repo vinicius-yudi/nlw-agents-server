@@ -15,6 +15,13 @@
       "when": 1752274819882,
       "tag": "0001_swift_xavin",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752452271877,
+      "tag": "0002_colorful_king_bedlam",
+      "breakpoints": true
     }
   ]
 }
